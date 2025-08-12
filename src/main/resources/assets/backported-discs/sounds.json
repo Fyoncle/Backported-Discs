@@ -1,0 +1,42 @@
+{
+  "creator_record": {
+    "sounds": [
+      {
+        "name": "backported-discs:records/creator",
+        "stream": true
+      }
+    ]
+  },
+  "creator_music_box_record": {
+    "sounds": [
+      {
+        "name": "backported-discs:records/creator_music_box",
+        "stream": true
+      }
+    ]
+  },
+  "precipice_record": {
+    "sounds": [
+      {
+        "name": "backported-discs:records/precipice",
+        "stream": true
+      }
+    ]
+  },
+  "tears_record": {
+    "sounds": [
+      {
+        "name": "backported-discs:records/tears",
+        "stream": true
+      }
+    ]
+  },
+  "lava_chicken_record": {
+    "sounds": [
+      {
+        "name": "backported-discs:records/lava_chicken",
+        "stream": true
+      }
+    ]
+  }
+}

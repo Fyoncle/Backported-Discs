@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "backported-discs:music_disc_creator",
+    "backported-discs:music_disc_creator_music_box",
+    "backported-discs:music_disc_precipice",
+    "backported-discs:music_disc_tears",
+    "backported-discs:music_disc_lava_chicken"
+  ]
+}
