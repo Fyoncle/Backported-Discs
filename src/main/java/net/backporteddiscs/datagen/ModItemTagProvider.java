@@ -16,6 +16,11 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider provider) {
+        getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS)
+                .add(ModItems.MUSIC_DISC_CREATOR)
+                .add(ModItems.MUSIC_DISC_CREATOR_MUSIC_BOX)
+                .add(ModItems.MUSIC_DISC_PRECIPICE);
+
         getOrCreateTagBuilder(ItemTags.MUSIC_DISCS)
                 .add(ModItems.MUSIC_DISC_CREATOR)
                 .add(ModItems.MUSIC_DISC_CREATOR_MUSIC_BOX)
