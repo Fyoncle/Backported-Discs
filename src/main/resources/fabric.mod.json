@@ -7,6 +7,9 @@
 	"authors": [
 		"Fyoncle"
 	],
+	"contributors": [
+		"ItsBlackgear"
+	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/backported-discs",
 		"sources": "https://github.com/Fyoncle/Backported-Discs",
@@ -17,10 +20,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.backporteddiscs.Backporteddiscs"
+			"net.backporteddiscs.BackportedDiscs"
 		],
 		"fabric-datagen": [
-			"net.backporteddiscs.BackporteddiscsDataGenerator"
+			"net.backporteddiscs.BackportedDiscsDataGenerator"
 		]
 	},
 	"mixins": [
